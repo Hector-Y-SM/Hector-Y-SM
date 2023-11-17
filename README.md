@@ -1,9 +1,10 @@
-<p align="left">
-</p>
+<p align="left"> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hector-y-sm&show_icons=true&locale=en" alt="hector-y-sm" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hector-y-sm&show_icons=true&locale=en&layout=compact" alt="hector-y-sm" /></p>
+<div style="display: inline-block">
 
+![Hector Yahir GitHub stats](https://github-readme-stats.vercel.app/api?username=Hector-Y-SM&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hector-Y-SM&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
