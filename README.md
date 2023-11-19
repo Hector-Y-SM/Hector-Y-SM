@@ -1,4 +1,3 @@
-<h1>Actualmente estoy especialmente interesado por el desarrollo web</h1>
 <div style="display: inline-block">
 
 ![Hector Yahir GitHub stats](https://github-readme-stats.vercel.app/api?username=Hector-Y-SM&show_icons=true&theme=radical)
