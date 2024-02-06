@@ -1,5 +1,6 @@
-<div style="display: inline-block">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hector-Y-SM&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hector-Y-SM&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
