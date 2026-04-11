@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="center">Computer Systems Engineer</h3>
+<h2 align="center">Computer Systems Engineer</h2>
 
 ###
 
-<h4 align="center">Instituto Tecnológico de Ensenada | Computer Systems Engineering (Aug 2021 – Mar 2026)</h4>
+<h3 align="center">Instituto Tecnológico de Ensenada | Computer Systems Engineering (Aug 2021 – Mar 2026)</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">I am currently focusing on these languages for problem-solving and automation</h5>
+<h4 align="left">I am currently focusing on these languages for problem-solving and automation</h4>
 
 ###
 
